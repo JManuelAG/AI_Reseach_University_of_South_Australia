@@ -1,0 +1,670 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Procedia CIRP</journal-title>
+      </journal-title-group>
+    </journal-meta>
+    <article-meta>
+      <title-group>
+        <article-title>A holistic me2th8tohdCoIRl oPgDyesifgonrCdonefvereelnocep, mMaeyn2t0o18f, RNaenatels-,TFriamncee Digital Twins A holistic methodology for development of Real-Time Digital Twins A new</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Paul Stief</string-name>
+          <email>paul.stief@ensam.eu</email>
+          <xref ref-type="aff" rid="aff0">0</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Jean-Yves Dantan</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Alain Etienne</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Ali Siadat</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>École Nationale Supérieure d'Arts et Métiers, Arts et Métiers ParisTech</institution>
+          ,
+          <addr-line>LCFC EA 4495, 4 Rue Augustin Fresnel, Metz 57078</addr-line>
+          ,
+          <country country="FR">France</country>
+        </aff>
+        <aff id="aff1">
+          <label>1</label>
+          <institution>FARO Europe GmbH &amp; Co. KG</institution>
+          ,
+          <addr-line>Lingwiesenstraße 11/2, D-70825, Korntal-Münchingen</addr-line>
+          ,
+          <country country="DE">Germany</country>
+        </aff>
+        <aff id="aff2">
+          <label>2</label>
+          <institution>Technical University of Cluj-Napoca</institution>
+          ,
+          <addr-line>Strada Memorandumului 28, Cluj-Napoca 400114</addr-line>
+          ,
+          <country country="RO">Romania</country>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>2019</year>
+      </pub-date>
+      <volume>00</volume>
+      <issue>2019</issue>
+      <fpage>000</fpage>
+      <lpage>000</lpage>
+      <abstract>
+        <p>resilience a holistic methodology, combining a top-down with a bottom-up 3D scanning approach for capturing real-time production parameters resilience a holistic methodology, combining a top-down with a bottom-up 3D scanning approach for capturing real-time production parameters and embedding them in Digital Twins is developed. The paper presents the methodology and a motivation scenario for further validation in an and embedding them in Digital Twins is developed. The paper presents the methodology and a motivation scenario for further validation in an In today's business environment, the trend towards more product variety and customization is unbroken. Due to this development, the need of innovative set-up of an automated measurement cell, where state-of-the-at technologies as autonomous AGV, mobile 3D laser scanning and innovative set-up of an automated measurement cell, where state-of-the-at technologies as autonomous AGV, mobile 3D laser scanning and agile and reconfigurable production systems emerged to cope with various products and product families. To design and optimize production automated processes are integrated. automated processes are integrated. sy©st2e0m1s9aTshweeAlluathsotros.cPhuobolsisehtehdeboypEtilmseavliperroBd.uVc.t matches, product analysis methods are needed. Indeed, most of the known methods aim to © 202109 The Authors. Published by Elsevier B.V.. anPaeleyrz-reeaviperwoduuncdteorrroenspeopnrsoidbuilcittyfaomftihlyeosncitehnetipfihcycsoicmalmleitvteeel. oDfitfhfeer1en3tthprCoIdRuPctCfaomnfielireesn,cheoowneIvnetre,lmligaeyndtiCffoemrlpaurgtaetliyonininteMrmasnuoffatchteurniunmgber and TPeheisr-irsevaniewopuenndaecrcreessspaorntiscilbeiluitnydoefr tthhee sCcCienBtYif-iNccCo-mNmDiltitceeenosfet(hhett1p3:/t/hcrCeaIRtivPeCcoomnfmeroennsc.eorogn/liIcnetenlsleigse/bnyt-Cnco-mndp/u4t.a0ti/)on in Manufacturing nEatnugrieneoefrcinogm. ponents. This fact impedes an efficient comparison and choice of appropriate product family combinations for the production PEenegrinreeevriienwg.under the responsibility of the scientific committee of the 13th CIRP Conference on Intelligent Computation in Manufacturing system. A new methodology is proposed to analyze existing products in view of their functional and physical architecture. The aim is to cluster Engineering, 17-19 July 2019, Gulf of Naples, Italy. thKeseeywporroddsu:cDtsigiintalnTewwianss;seRmeabl-ltyimoeri3eDntsecdanpnroindguct families for the optimization of existing assembly lines and the creation of future reconfigurable a functional analysis is performed. Moreover, a hybrid functional and physical architecture graph (HyFPAG) is the output which depicts the similarity between product families by providing design support to both, production system planners and product designers. An illustrative applications applications thyssenkrupp Presta France is then carried out to give a first industrial evalueattcio.nfroof mthethpreopFoascetdoarpyp'sroaSchho. p Floor. Simple factory objects etc. from the Factory's Shop Floor. Simple factory objects endowed with smart sensors will be treated as smart factory endowed with smart sensors will be treated as smart factory PTTeeiimmr-reeeviDDewiigguiinttaadller TTrewwspiionnnsssibilicctyoonnoccfeethppettsssci[[e11n,,t22if]]i,,c cttoeemcchhmnnioottlleooeggoiifeessthea2n8dth CIRP Design Conference 2018. and objects [4] and the information thus collected will be referred objects [4] and the information thus collected will be referred 2P21e2e-r8r2e7v1ie©w2u0n17deTrhtehAeurtehsopros.nPsiubbilliisthyedofbtyhEelssecvieienrtBific.Vc o.mmittee of the 13th CIRP Conference on Intelligent Computation in Manufacturing</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Digital Twins</kwd>
+        <kwd>Real-time 3D scanning assembly systems</kwd>
+        <kwd>Based on Datum Flow Chain</kwd>
+        <kwd>the physical structure of the products is analyzed</kwd>
+        <kwd>Functional subassemblies are identified</kwd>
+        <kwd>and</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>www.elsevier.com/locate/procedia
+and
+and
+their
+their
+validation
+validation
+in
+in
+operational factory
+operational factory
+The guiding idea of the research team is to realise the
+Real© 20T1h7eTghueiAdiunthgoirds.ePauobflitshheedrebsyeaErlcsehvtieeramB. Vis. to realise the
+RealKeenyvwiorrodns:mAesnsetm,bltyo;wDeasridgsn meththeod; aFcamhiielyviedmenetinfitcatioonf
+environment, towards the achievement of
+optimum, such called factory resilience planned to produce at
+optimum, such called factory resilience planned to produce at
+factory
+factory
+the
+the
+optimum [3], and to promote it as standard-based method.
+optimum [3], and to promote it as standard-based method.</p>
+      <p>The proposed approach (Figure 1) consists of a Factory
+1. InTthreodpurcotpioonsed approach (Figure 1) consists of a Factory
+shop floor populated with scalable networks of technical and
+shop floor populated with scalable networks of technical and
+human sensors—an approach based on the anthropocentric
+huDmuaen steonsotrhse—afnastappdreovaeclhopbmaseendt onin thetheanthdroompoaicnentroifc
+“humans as universal sensors” concept - providing
+contextc“ohmummuanniscaatsiounniavnedrsaalnseonnsogrosi”ngcotnrceenpdt
+-ofprdoivgiidtiinzagticoonntaenxdtdata on primary factory objects (humans, machines,
+ddigaittaalizoantion,</p>
+      <p>primmaanruyfacftaucrtionrgy enotebrjpercitsses (ahruemfaacnisn,g immapcohritnaenst,
+equipment, tools, devices, parts, etc.) and a Space of Factory
+cehqaulliepnmgeesnt,intootlosd,adye’vsicems,arpkaertts,eentvci.r)oannmdeantSs:paace coofnFtiancutionrgy
+Real-Time Models which are shared and queried by factory
+teRnedaeln-Tc yimtoewMaroddserlsedwuchtiicohn aorfepsrhoadruecdt danevdeqloupemrieednt btiymfeasctaonrdy
+applications. State-of-the-art sensor systems, wireless
+shapoprtleicnaetdions.</p>
+      <p>producSttalitfee-coyfc-tlhees.-aIrnt addseitnisoonr, thesryestiesmasn, incwreiaresliensgs
+communication, and mobile device technologies - herewith
+dceommamndunoifcactuiostno,mainzdatimono,bbileeindgevaitctehetescahmnoelotigmiees i-n haegrelowbiathl
+called Cyber-Physical System Technologies (CPSTs) will
+ccoamllpeedtitCioynbewr-itPhhycsoimcapletSityosrtse mall Toevcehrntohleogwieosrld(.CTPShiTss)trewndil,l
+allow the capturing of the current status of factory objects
+wahlliocwh itsheincdaupct uinrigngthoef dtheeveclouprrmenetntstafrtoums ofmafaccrotortyo ombjieccrtos
+markets, results in diminished lot sizes due to augmenting
+product varieties (high-volume to low-volume production) [1].
+To cope with this augmenting variety as well as to be able to
+identify
+possible
+optimization
+potentials in the existing
+to as the context [5] of a smart factory object. The context
+to as the context [5] of a smart factory object. The context
+consists of physical information (location, movement, energy
+consists of physical information (location, movement, energy
+consumption, temperature, pressure, etc.), logical information
+consumption, temperature, pressure, etc.), logical information
+(identity, privileges, and preference), interrelationships with
+(identity, privileges, and preference), interrelationships with
+oofththeer pdroomdauicnts,raanngde aandhiscthoarryacotefritshteicsobmjeacntufaalcotnugretdheantdim/oer
+other domains, and a history of the object along the time
+asscsaelme.bled in this system. In this context, the main challenge in
+scale.
+modFeollrinegxaamndplaen,atlhyesisfoilslonwoiwngnoctonotnelxyt tpoarcaompeetewrsithcasningblee</p>
+      <p>For example, the following context parameters can be
+pcroondsuicdtesr,ead:liImDi,teTdyppreod(eu.cgt.,raCnhgieroonr),exSitsattiunsg(per.go.d,uIcnt Ffaamiliulirees),,
+considered: ID, Type (e.g., Chiron), Status (e.g., In Failure),
+nxe=w20p0ro, dyu=ct15fa0m,izl=ie7s.25It),caRneblaetioobns(esr)vteod tohtahterclafascsitcoaryleoxbisjteicntgs
+x=200, y=150, z=725), Relation(s) to other factory objects
+p(reo.gd.u,ctPfaromdiulicets: ar4e5r9eXgYro, upPerdodinucfutinocntioonrdoefrc:lieTnTtsTo5r6f,eaOturrdeesr.
+(e.g., Product: 459XY, Production order: TTT56, Order
+Hporiwoerivteyr:, aVsesreymbhliygho,riDenrtielld pTrooodlucTt4f5aVm,iliReostaarteiohnarsdplyeetdo:finxydz.
+priority: Very high, Drill Tool T45V, Rotation speed: xyz
+rotO/mninth)e, eptcro.duct family level, products differ mainly in two
+rot/min), etc.
+main characteristics: (i) the number of components and (ii) the
+type of components (e.g. mechanical, electrical, electronical).</p>
+      <p>Classical methodologies considering mainly single products
+or solitary, already existing product families analyze the
+product structure on a physical level (components level) which
+causes difficulties regarding
+an efficient definition and</p>
+      <p>This way the factory will become a network within which
+every device can be linked to the end of providing its
+information to any user interested in these data. A very large
+amount of context data will be captured by a wide range of
+mature, commercially available, well understood and accepted
+CPSTs. These can be combinations of tags (RFID, barcodes,
+etc.), portable computing devices (e.g., tablet, PC), and smart
+sensors (mobile 3D laser scanners) deployed in the factory
+shop floor.</p>
+      <p>The models of smart factory objects such called context
+and user-aware models will be available in a repository
+named Space of Factory Real-Time Models. The Product,
+Process, equipment, Building and Factory Data Models
+will thus be extended by dynamic context data about the smart
+factory objects, such as the objects’ location, movement,
+status, etc. The models will be enriched by temporal aspects
+respectively by attaching historical information to the context
+data. These models are further on called Real-Time Digital
+Twins.</p>
+      <p>The Space of Real-Time Models will build the foundation
+of Factory Context-aware Applications [6], which will
+provide decision support by constantly monitoring the status
+of the factory smart objects in real-time. Thereby, the
+applications will be able to act upon and adapt to changes in
+the shop floor, and select and present information depending
+on the applications physical context. They can share the wide
+range of context models from the Space according to their
+aim, e.g. real-time monitoring of energy use, material flow,
+quality, machine conditioning, etc. Based on the enrichment
+of the context models by temporal aspects, these applications
+can query not only the current state of the factory objects, but
+also states of the past or even predicted ones in the future, e.g.
+through online simulation.
+2. Holistic methodology for development of Real-Time
+Digital Twins</p>
+    </sec>
+    <sec id="sec-2">
+      <title>2.1. Research procedure and motivation scenario</title>
+      <p>In order to implement the Real-Time Digital Twins in
+operational manufacturing environment, the research group
+approaches a bottom-up procedure, addressing the theme in
+four steps. In the fist step, identification of at least two
+motivation scenarios coping with the challenge of giving life
+and real-time to the Digital Models of physical manufacturing
+entities from factory shop floor, e.g. parts, components,
+equipment, tools, devices, human workers, etc.; is done. The
+validation of the motivation scenarios (Step 2) with
+state-ofthe-art enabling technologies is followed by (Step 3),
+development of a generic approach for Real-Time Digital
+Twins in manufacturing. the (Step 4), development of the
+Road Map for migration of the generic approach in other
+industries and use cases, e.g. machine tool/equipment
+industry. Additionally, the employment of other context
+capturing technologies, e.g. smart wireless sensors, will be
+considered as well.</p>
+      <p>The motivation scenario presented in this paper consists of
+the Measurement Cell, dominated by robotics and
+autonomous vehicles (AGVs) and surveilled by 3D capturing
+and sensing technologies. The overall objectives of building
+and validating this scenario is the improvement of the quality
+of the body in white components towards zero defect
+manufacturing in automotive industry.</p>
+      <p>
+        The created layout of the Measurement Cell, presented in
+Figure 2, consists of the following main components,
+highlighted in Figure by their numbers, as follow, (
+        <xref ref-type="bibr" rid="ref1">1</xref>
+        )
+Industrial robotic arm (KUKA, KR360 R2830);
+(
+        <xref ref-type="bibr" rid="ref2">2</xref>
+        ) Laser scanner for measurement of body shells/attachments
+coupled on industrial robotic arm (Cobalt, KUKA KR360);
+(
+        <xref ref-type="bibr" rid="ref3">3</xref>
+        ) AGV for parts transport (KUKA, KMP1500 FTS); (
+        <xref ref-type="bibr" rid="ref4">4</xref>
+        )
+Mobile industrial collaborative robot (KUKA KMR IIWA);
+(
+        <xref ref-type="bibr" rid="ref5">5</xref>
+        ) Part, body in white (Mercedes S Class); (
+        <xref ref-type="bibr" rid="ref6">6</xref>
+        ) Safe camera
+system for monitoring safe rooms (PILZ SafetyEYE); (
+        <xref ref-type="bibr" rid="ref7">7</xref>
+        )
+Laser scanner for measurement and projection on surfaces
+(FARO VECTOR); (
+        <xref ref-type="bibr" rid="ref8">8</xref>
+        ) Laser scanning for measurement of
+painted bodies (FARO FOCUS); (9) Imaging Laser Projector
+(FARO TRACER); (10) Mobile 3D laser scanner (FARO
+ScanBot); (11) End of line measurement gate for buckling
+dents (FARO Quality-Gate).
+      </p>
+      <p>The process flow of the performed activities in the
+Measurement Cell consists of the following steps, where the
+involved components from the Layout presented in Figure 2
+are marked with numbers:</p>
+      <p>
+        Step 1: The KUKA AGV (
+        <xref ref-type="bibr" rid="ref3">3</xref>
+        ) transports the Mercedes body
+in white (
+        <xref ref-type="bibr" rid="ref5">5</xref>
+        ) from outside of the layout area into the cell;
+      </p>
+      <p>
+        Step 2: The KUKA industrial robotic arm (
+        <xref ref-type="bibr" rid="ref1">1</xref>
+        ) measures the
+body quality on one side of the body through the Cobalt laser
+scanner (
+        <xref ref-type="bibr" rid="ref2">2</xref>
+        );
+      </p>
+      <p>
+        Step 3: The KUKA mobile collaborative robot (
+        <xref ref-type="bibr" rid="ref4">4</xref>
+        )
+measures all other sides of the body (
+        <xref ref-type="bibr" rid="ref5">5</xref>
+        ) where the fix KUKA
+industrial robotic arm (
+        <xref ref-type="bibr" rid="ref1">1</xref>
+        ) cannot reach the body;
+      </p>
+      <p>
+        Step 4: The PILZ SafetyEYE (
+        <xref ref-type="bibr" rid="ref6">6</xref>
+        ) monitors the cell for
+safety issues, while the cell is open on the left and bottom
+sides as in yellow and red colors is in Figure 2 is highlighted.
+The yellow area will trigger an alert and the red one will stop
+for safety reasons all processes into the cell;
+      </p>
+      <p>
+        Step 5: The FARO VECTOR (
+        <xref ref-type="bibr" rid="ref7">7</xref>
+        ), FARO FOCUS (
+        <xref ref-type="bibr" rid="ref8">8</xref>
+        ), and
+FARO TRACER (9) capture continuously the quality of the
+processes performed in the cell, on a fixed and top-down
+frame;
+      </p>
+      <p>Step 6: The FARO ScanBot (10) scans the whole cell in a
+mobile and bottom-up frame;</p>
+      <p>
+        Step 7: After the measurement operation performed on the
+Step 2 and Step 3 are accomplished, the KUKA AGV (
+        <xref ref-type="bibr" rid="ref3">3</xref>
+        )
+transports the Mercedes body in white part (
+        <xref ref-type="bibr" rid="ref5">5</xref>
+        ) outside of the
+cell by passing throw FARO Quality Gate (11) where the final
+high-precision quality measurement is performed.
+      </p>
+      <p>The activities of the Steps 2-6 are performed
+simultaneously being followed by the final Step 7.
+2.2. Enabling technologies for Measurement Cell set-up</p>
+      <p>For the realization of the Measurement Cell, the research
+group employed a number of state-of-the-art technologies in
+the field of mobile/autonomous industrial robotics,
+projection systems, 3D laser capturing, which are
+comprehensively presented in the following paragraphs.</p>
+      <p>Industrial robots [3] are automated equipment, capable
+of movement on three or more axis and they can be
+programmed in various ways. In laser scanning quality
+check [7], an industrial robot can follow a defined trajectory
+with respect to the part that needs to be measured, multiple
+times, with the same precision.</p>
+      <p>Automated Guided Vehicles: known as AGVs, are used
+in industry for logistic operations. There are multiple types
+of AGV’s considering their uses and navigation capabilities.
+Processes like towing, loading and transporting are performed
+autonomous by following a cable, a tape, a laser or even a
+wireless interfaces configuration. Parameters like maximum
+load, battery autonomy, and maximum velocity, recharging
+time, safety measures and position accuracy must be
+considered when modelling an AGV.</p>
+      <p>3D laser scanning: a relatively new technology, used to
+increase productivity and collect 3D data to optimize and
+simplify the work flow [8]. In the last years, there has been
+major progress with its implementation in industry, mainly for
+quality check processes, but also for reverse engineering
+products and facility management. To have relevant data, the
+scanning parameters must meet the modelling demands.
+Therefor the scanning rate, speed, resolution and distance
+must be considered in 3D industrial laser scanning.</p>
+      <p>Safety camera systems: when working with automated
+processes, defining a safety area is mandatory. Even if all the
+machines were set up correctly and installed properly, there is
+always a slim chance for an unfortunate accident, due to
+human error or incorrect software development. To solve this
+problem, the perimeter around the working station/cell, can be
+surrounded with fences. A more innovative way would be
+using a sensory based system. This way, the restricted area
+can be defined in real time, offering flexibility and a higher
+safety level.</p>
+    </sec>
+    <sec id="sec-3">
+      <title>2.3. Holistic methodology and solution</title>
+      <p>The holistic methodology and our solution for the
+realization of the Real-Time Digital Twins is presented in
+Figure 3. The Figure represents on the bottom the factory
+shop floor where equipment, tools, devices, parts, etc. are
+monitored in real-time by capturing their context through
+technologies like smart sensor “factory objects” is represented
+by: a) Type T, e.g. KUKA robot; b) Position x, y, z in factory
+layout; c) Status s, e.g. 0=not working, 1=working; d) Time
+t; e) Relations r, e.g. the KUKA robot processes measurement
+of the Mercedes body in white with a high priority order and a
+accuracy up to 100µm. On the middle layer of the Figure the
+context aware Models of the factory objects are realized by
+using technologies and systems from the upper layer, e.g.
+CAx for modeling the products, 3D laser systems for
+capturing the real time context of the factory shop floor.</p>
+      <p>On the right in Figure 3, the Context-aware assistance
+systems for Real-Time Digital Twins is represented as the
+solution envisioned by the research group. It consists of
+few components represented in Figure 3 in boxes and
+detailed below as follows:</p>
+      <p>Step A: In the first step of the process flow, all factory
+objects, e.g. industrial robotics arm, mobile AGV, 3D laser
+scanning, parts, etc. are modelled by using digitalization
+systems like CAD for the product design, Digital Factory
+for layout creation, etc.;</p>
+      <p>Step B consists of data acquisition through e.g. wireless
+sensors and/or laser scanning, using a bottom-up approach.
+This process is also known as context capturing;</p>
+      <p>Step C: Simulation and analysis process represents the
+next step performed after enough data in real-time is
+captured. Using 3D captured information and having the
+production history data, an optimization algorithm based on
+machine learning technology can be applied to develop
+further optimization solutions or measures aiming at
+continuously improvement of key production parameters,
+like in our case the quality of the product;</p>
+      <p>Step D: Elaboration of measures for optimization of the
+performed processes represents the final step, accomplished
+by documentation and visualization. The last can be
+performed through a report or even by a laser projector
+right in the factory floor. Additionally, some mobile devices
+as iPad, iPhone can be used for sending triggers, alerts to
+the worker operating into the production area, in our case
+outside of the cell. Based on these measures the
+semiautomatic or self-configured optimization of the cell is
+realized.
+3. Conclusions and future work</p>
+      <p>The performed work started with a new concept on
+giving Real-Time feature to the Factory Digital Twins,
+followed by definition and set-up of a motivation scenario.
+Next activities will focus on defining the second motivation
+scenario in the field of Digital Twins for carbon fibre 3D
+printing process. The validation of both motivation
+scenario, the development of a generic approach for
+RealTime Digital Twins in manufacturing and the development
+of the Road Map for migration in other industries and use
+cases are planned as well.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          [1]
+          <string-name>
+            <surname>Boschert</surname>
+            <given-names>S</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Heinrich</surname>
+            <given-names>C</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Rosen</surname>
+            <given-names>R</given-names>
+          </string-name>
+          .
+          <article-title>Next generation digital twin</article-title>
+          .
+          <source>Proceedings of TMCE</source>
+          <year>2018</year>
+          ,
+          <volume>7</volume>
+          -11 May,
+          <year>2018</year>
+          , Las Palmas de Gran Canaria,
+          <string-name>
+            <surname>Spain</surname>
+          </string-name>
+          Edited by:
+          <string-name>
+            <surname>I. Horváth</surname>
+            ,
+            <given-names>J.P.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Suárez Rivero and P.M. Hernández</surname>
+            <given-names>Castellano</given-names>
+          </string-name>
+          ,
+          <source>ISBN 978-94-6186-910-4.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          [2]
+          <string-name>
+            <surname>Madni</surname>
+            <given-names>AM</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Madni</surname>
+            <given-names>CC</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Lucero</surname>
+            <given-names>SD</given-names>
+          </string-name>
+          .
+          <source>Leveraging Digital Twin Technology in Model-Based Systems Engineering. Systems Journal, Systems</source>
+          <year>2019</year>
+          ,
+          <volume>7</volume>
+          (
+          <issue>1</issue>
+          ), 7; https://doi.org/10.3390/systems7010007.
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          [3]
+          <string-name>
+            <surname>Morar</surname>
+            <given-names>L</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Westkämper</surname>
+            <given-names>E</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Abrudan</surname>
+            <given-names>I</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Pisla</surname>
+            <given-names>A</given-names>
+          </string-name>
+          , et al.
+          <article-title>Planning and operation of Production Systems</article-title>
+          . Ed.
+          <source>Fraunhofer IRB</source>
+          ,
+          <year>2007</year>
+          . p.
+          <fpage>387</fpage>
+          -
+          <lpage>409</lpage>
+          , p.
+          <fpage>463</fpage>
+          -
+          <lpage>507</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          [4]
+          <string-name>
+            <given-names>Datta</given-names>
+            <surname>SPA</surname>
+          </string-name>
+          .
+          <article-title>Emergence of Digital Twins - Is this the march of reason?</article-title>
+          .
+          <source>Journal of Innovation Management Datta, JIM 5</source>
+          ,
+          <issue>3</issue>
+          (
+          <year>2017</year>
+          )
+          <fpage>14</fpage>
+          -
+          <lpage>33</lpage>
+          . ISSN 2183-
+          <fpage>0606</fpage>
+          . P.
+          <volume>15</volume>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          [5]
+          <string-name>
+            <surname>Lucke</surname>
+            <given-names>D</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Constantinescu</surname>
+            <given-names>C</given-names>
+          </string-name>
+          , Westkämper E.
+          <article-title>Context Data Model, the Backbone of a Smart Factory</article-title>
+          . In: Tichkiewitch,
+          <string-name>
+            <surname>Serge</surname>
+          </string-name>
+          (Chairman) u.a.;
+          <source>CIRP: "Sustainable Development of Manufacturing Systems": 42nd CIRP Conference on Manufacturing Systems</source>
+          , Grenoble, June 3-5,
+          <year>2009</year>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          [6]
+          <string-name>
+            <surname>Lucke</surname>
+            <given-names>D</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Constantinescu</surname>
+            <given-names>C</given-names>
+          </string-name>
+          , Westkämper E. “
+          <article-title>Smart Factory - A Step towards the Next Generation of Manufacturing"</article-title>
+          . In:
+          <article-title>"Manufacturing Systems and Technologies for the New Frontier"</article-title>
+          , Editors: Mitsuishi, Ueda, Kumura,
+          <source>the 41st CIRP Conference on Manufacturing Systems</source>
+          ,
+          <year>2008</year>
+          ,
+          <fpage>26</fpage>
+          -28 May, Tokio, Japan, ISBN 978-1-
+          <fpage>84800</fpage>
+          -266, SpringerVerlag, London, S.
+          <fpage>115</fpage>
+          -
+          <lpage>118</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          [7]
+          <string-name>
+            <surname>Schubert</surname>
+            <given-names>S</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Neubert</surname>
+            <given-names>P</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Protzel</surname>
+            <given-names>P</given-names>
+          </string-name>
+          .
+          <article-title>How to build and customize a highresolution 3D laserscanner using o-the-shelf components</article-title>
+          .
+          <source>Towards Autonomous Robotic Systems (TAROS) 2016</source>
+          . Springer via http://dx.doi.org/10.1007/978-3-
+          <fpage>319</fpage>
+          -40379-3
+          <fpage>33</fpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          [8]
+          <string-name>
+            <surname>Wulf</surname>
+            <given-names>O</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Wagner</surname>
+            <given-names>B</given-names>
+          </string-name>
+          .
+          <article-title>Fast 3d scanning methods for laser measurements systemshttps://pdfs</article-title>
+          .semanticscholar.
+          <source>org/633d/42113180b581e64ac04b 846cb55c6b9bffd2.pdf.</source>
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

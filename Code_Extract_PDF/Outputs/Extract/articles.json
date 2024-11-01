@@ -1,0 +1,43 @@
+[
+    {
+        "Tittle": "A holistic me2th8tohdCoIRl oPgDyesifgonrCdonefvereelnocep, mMaeyn2t0o18f, RNaenatels-,TFriamncee Digital Twins A holistic methodology for development of Real-Time Digital Twins A new",
+        "Year": "2019",
+        "ID": "none",
+        "Author": [
+            {
+                "Name": "Paul Stief",
+                "Email": "paul.stief@ensam.eu",
+                "Affiliation": [
+                    "E\u0301cole Nationale Supe\u0301rieure d'Arts et Me\u0301tiers, Arts et Me\u0301tiers ParisTech"
+                ]
+            },
+            {
+                "Name": "Jean-Yves Dantan",
+                "Email": "none",
+                "Affiliation": [
+                    "E\u0301cole Nationale Supe\u0301rieure d'Arts et Me\u0301tiers, Arts et Me\u0301tiers ParisTech"
+                ]
+            },
+            {
+                "Name": "Alain Etienne",
+                "Email": "none",
+                "Affiliation": [
+                    "E\u0301cole Nationale Supe\u0301rieure d'Arts et Me\u0301tiers, Arts et Me\u0301tiers ParisTech"
+                ]
+            },
+            {
+                "Name": "Ali Siadat",
+                "Email": "none",
+                "Affiliation": [
+                    "E\u0301cole Nationale Supe\u0301rieure d'Arts et Me\u0301tiers, Arts et Me\u0301tiers ParisTech"
+                ]
+            }
+        ],
+        "Affiliations": {
+            "aff0": "E\u0301cole Nationale Supe\u0301rieure d'Arts et Me\u0301tiers, Arts et Me\u0301tiers ParisTech",
+            "aff1": "FARO Europe GmbH & Co. KG",
+            "aff2": "Technical University of Cluj-Napoca"
+        },
+        "Abstract": "Abstract The Digital Twins of product and production face the challenge that once the development process is closed, they does not reflect the real status of production where events as equipment failures, poor quality or missing compound parts happens continuously.\nFor assuring production resilience a holistic methodology, combining a top-down with a bottom-up 3D scanning approach for capturing real-time production parameters and embedding them in Digital Twins is developed.\nThe paper presents the methodology and a motivation scenario for further validation in an In today's business environment, the trend towards more product variety and customization is unbroken.\nDue to this development, the need of innovative set-up of an automated measurement cell, where state-of-the-at technologies as autonomous AGV, mobile 3D laser scanning and agile and reconfigurable production systems emerged to cope with various products and product families.\nTo design and optimize production automated processes are integrated."
+    }
+]

@@ -1,0 +1,9 @@
+requests
+xml
+re
+json
+nltk
+subprocess
+os 
+shutil
+argparse
